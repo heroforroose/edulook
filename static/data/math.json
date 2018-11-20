@@ -1,0 +1,35 @@
+{
+    "ret":true,
+    "data":[
+        {
+            "aid":16,
+            "cataId":4,
+            "title":"数学文章标题7",
+            "abstract":"数学文章摘要7",
+            "content":"数学文章内容7",
+            "author":"zhangsan",
+            "publishdate":"20171012",
+            "update":"20180901"
+        },
+        {
+            "aid":17,
+            "cataId":4,
+            "title":"数学文章标题8",
+            "abstract":"数学文章摘要8",
+            "content":"数学文章内容8",
+            "author":"zhangsan",
+            "publishdate":"20171012",
+            "update":"20180901"
+        },
+        {
+            "aid":18,
+            "cataId":4,
+            "title":"数学文章标题9",
+            "abstract":"数学文章摘要9",
+            "content":"数学文章内容9",
+            "author":"zhangsan",
+            "publishdate":"20171012",
+            "update":"20180901"
+        }
+    ]
+}

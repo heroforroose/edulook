@@ -1,0 +1,14 @@
+{
+    "ret":true,
+    "data":
+        {
+            "aid":1, 
+            "cataId":1,
+            "title":"推荐文章标题1",
+            "abstract":"推荐文章摘要1",
+            "content":"推荐文章内容1Python的设计哲学是优雅",
+            "author":"zhangsan",
+            "publishdate":"20171012",
+            "update":"20180901"
+        }
+}

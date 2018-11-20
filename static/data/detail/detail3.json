@@ -1,0 +1,14 @@
+{
+    "ret":true,
+    "data":
+        {
+            "aid":3,
+            "cataId":1,
+            "title":"推荐文章标题3",
+            "abstract":"推荐文章摘要3",
+            "content":"推荐文章内容3",
+            "author":"zhangsan",
+            "publishdate":"20171012",
+            "update":"20180901"
+        }
+}

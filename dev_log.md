@@ -1,0 +1,1 @@
+home组件中 template中多个组件调用需用div包裹

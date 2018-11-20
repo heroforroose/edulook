@@ -1,0 +1,35 @@
+{
+    "ret":true,
+    "data":[
+        {
+            "aid":10,
+            "cataId":2,
+            "title":"热点文章标题1",
+            "abstract":"热点文章摘要1",
+            "content":"热点文章内容1",
+            "author":"zhangsan",
+            "publishdate":"20171012",
+            "update":"20180901"
+        },
+        {
+            "aid":11,
+            "cataId":2,
+            "title":"热点文章标题8",
+            "abstract":"热点文章摘要8",
+            "content":"热点文章内容8",
+            "author":"zhangsan",
+            "publishdate":"20171012",
+            "update":"20180901"
+        },
+        {
+            "aid":12,
+            "cataId":2,
+            "title":"热点文章标题9",
+            "abstract":"热点文章摘要9",
+            "content":"热点文章内容9",
+            "author":"zhangsan",
+            "publishdate":"20171012",
+            "update":"20180901"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "ret":true,
+    "data":[
+        {
+            "aid":19,
+            "cataId":5,
+            "title":"编程文章标题7",
+            "abstract":"编程文章摘要7",
+            "content":"编程文章内容7",
+            "author":"zhangsan",
+            "publishdate":"20171012",
+            "update":"20180901"
+        },
+        {
+            "aid":20,
+            "cataId":5,
+            "title":"编程文章标题8",
+            "abstract":"编程文章摘要8",
+            "content":"编程文章内容8",
+            "author":"zhangsan",
+            "publishdate":"20171012",
+            "update":"20180901"
+        },
+        {
+            "aid":21,
+            "cataId":5,
+            "title":"编程文章标题9",
+            "abstract":"编程文章摘要9",
+            "content":"编程文章内容9",
+            "author":"zhangsan",
+            "publishdate":"20171012",
+            "update":"20180901"
+        }
+    ]
+}
