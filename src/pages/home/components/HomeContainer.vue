@@ -55,6 +55,7 @@ export default {
         width:100%
         .container
             height:auto
+            overflow:auto
             ul
                 li
                     margin:0.1rem

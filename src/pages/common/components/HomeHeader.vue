@@ -93,4 +93,7 @@ export default {
                 display:inline
                 padding-left:.6rem
                 float:left
+                &:hover
+                    color:#ffff
+                    cursor:pointer
 </style>
